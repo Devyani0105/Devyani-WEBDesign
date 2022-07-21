@@ -1,0 +1,21 @@
+body {
+  background-color: #CEE5D0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: green;
+  border-width: 5px;
+  width: 80%;
+}
+
+h1 {
+  color: #A10035;
+  font-family: sans-serif;
+}
+
+.page2img {
+  height: 30%;
+  width: 30%;
+}
